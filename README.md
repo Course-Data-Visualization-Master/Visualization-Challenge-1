@@ -1,5 +1,3 @@
-# Visualization-Challenge-1
-
 ## Overview
 
 The National Footprint Accounts (NFAs) measure the ecological resource use and resource capacity of nations from 1961 to 2014. The calculations in the National Footprint Accounts are primarily based on United Nations data sets, including those published by the Food and Agriculture Organization, United Nations Commodity Trade Statistics Database, and the UN Statistics Division, as well as the International Energy Agency. The 2018 edition of the NFA features some exciting updates from last year’s 2017 edition, including data for more countries and improved data sources and methodology. Methodology changes:
@@ -13,7 +11,7 @@ Dataset provides Ecological Footprint per capita data for years 1961-2014 in glo
 
 ## Original Visualization
 
-https://media.data.world/P4Y4XtKQ1eioO2I38QGl_Ecological%20Footprint.png
+![original visualization](https://media.data.world/P4Y4XtKQ1eioO2I38QGl_Ecological%20Footprint.png)
 
 Interactive Version: http://data.footprintnetwork.org/#/compareCountries?cn=all&type=EFCpc&yr=2013
 
